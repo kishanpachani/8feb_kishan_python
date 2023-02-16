@@ -1,0 +1,15 @@
+1)what is software ?
+    Software is a set of instructions, data or programs used to operate computers and execute specific tasks. 
+
+2)what are the types of applicationsWord processors?
+	Database programs.
+	Web browsers.
+	Deployment tools.
+	Image editors.
+	Communication platforms
+
+3)what is programming?
+	Programming is the process of creating a set of instructions that tell a computer how to perform a task.
+
+4)What is Python explain?
+	Python is an interpreted, object-oriented, high-level programming language with dynamic semantics developed by Guido van Rossum.  
